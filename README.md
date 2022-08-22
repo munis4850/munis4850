@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @munis4850
 - 👀 I’m interested in ...many things
-- 🌱 I’m currently learning ...html. css, autocad
+- 🌱 I’m currently learning ...html. css, java script, autocad
 - 💞️ I’m looking to collaborate on ...programming
 - 📫 How to reach me ...come with beer
 
